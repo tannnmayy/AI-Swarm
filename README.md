@@ -25,7 +25,7 @@ link in a browser tab and your phone or laptop becomes one stage of a model far
 bigger than it could ever hold. Tokens pass between devices peer-to-peer over
 WebRTC. The answer appears on every screen.
 
-**Team SE7EN** · Hack Summit 7.0 · AI & Automation track
+**Team SE7EN** · Hack Summit 7.0 · AI & Automation track · Tanmay Singh · Panshul Arora · Aaarati Deshmukh
 
 ## What this actually is
 
