@@ -448,4 +448,4 @@ what is ours.
 ## Licence
 
 [MIT](LICENSE). Model weights and tokenizers come from their publishers under their
-own licences and are not redistributed here.
+own licences and are not redistributed here
